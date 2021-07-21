@@ -1,4 +1,5 @@
 # coding:utf-8
 
 def main():
-    return "hello world!"
+    hello = "hello git"
+    return "hello world!" + "_" + hello
